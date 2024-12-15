@@ -1,0 +1,23 @@
+.Polaris-Navigation__SectionHeading span {
+  font-weight: 600;
+}
+
+.Polaris-Navigation__Item span {
+  font-weight: 500;
+}
+
+.Polaris-Layout__AnnotatedSection h2 {
+  font-size: var(--p-font-size-400);
+}
+
+.Polaris-Layout__AnnotatedSection p {
+  font-size: 0.875rem;
+}
+
+.Polaris-Card__Section {
+  padding: 0;
+}
+
+button.Polaris-Button {
+  font-weight: 300;
+}
